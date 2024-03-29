@@ -23,16 +23,16 @@ const Home = ()=>{
                 {/* logo block */}
                 <div className="header d-flex justify-content-between">
                     <div className="logo">
-                        <img src={'../img/logo/logo.png'} style={{width:"100%"}}/>
+                        <img src={'./img/logo/logo.png'} style={{width:"100%"}}/>
                     </div>
                     <div>
                         <h2>LOGO</h2>
                     </div>
                     <div className="d-flex justify-content-center">
-                        <img className="icon" src="../img/icons/search.png"/>
-                        <img className="icon" src="../img/icons/like.png"/>
-                        <img className="icon" src="../img/icons/bag.png"/>
-                        <img className="icon" src="../img/icons/user.png"/>
+                        <img className="icon" src="./img/icons/search.png"/>
+                        <img className="icon" src="./img/icons/like.png"/>
+                        <img className="icon" src="./img/icons/bag.png"/>
+                        <img className="icon" src="./img/icons/user.png"/>
                         <div className="d-flex m-2">
                             <h6>ENG</h6>
                             <i class="fa-solid fa-angle-down" style={{margin:"4px"}}></i>

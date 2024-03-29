@@ -75,11 +75,11 @@
               </div>
               <h5>mettā muse ACCEPTS</h5>
               <div>
-                <img className="logo-img" src={"../img/logo/g-pay.png"}/>
-                <img className="logo-img" src={"../img/logo/Mastercard.jpg"}/>
-                <img className="logo-img" src={"../img/logo/pay-pal.png"}/>
-                <img className="logo-img" src={"../img/logo/apple-pay.webp"}/>
-                <img className="logo-img" src={"../img/logo/shop-pay.webp"}/>
+                <img className="logo-img" src={"./img/logo/g-pay.png"}/>
+                <img className="logo-img" src={"./img/logo/Mastercard.jpg"}/>
+                <img className="logo-img" src={"./img/logo/pay-pal.png"}/>
+                <img className="logo-img" src={"./img/logo/apple-pay.webp"}/>
+                <img className="logo-img" src={"./img/logo/shop-pay.webp"}/>
               </div>
             </div>
           </div>

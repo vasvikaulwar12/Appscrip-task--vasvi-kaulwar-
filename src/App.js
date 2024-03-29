@@ -5,126 +5,126 @@ const App=()=>{
     {
       new_prod:"NEW PRODUCT",
       heading:"PPXOC MILKYWAY DRESS IN...",
-      img:'../img/product/bag.jpg',
+      img:'./img/product/bag.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
     },
     {
       
       heading:"PPXOC MILKYWAY DRESS IN...",
-      img:'../img/product/teddy.jpg',
+      img:'./img/product/teddy.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
       
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/blet.jpg',
+      img:'./img/product/blet.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/cap.jpg',
+      img:'./img/product/cap.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/bag1.jpg',
+      img:'./img/product/bag1.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/teddy1.jpg',
+      img:'./img/product/teddy1.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/blet1.jpg',
+      img:'./img/product/blet1.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/bag2.jpg',
+      img:'./img/product/bag2.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/bag3.jpg',
+      img:'./img/product/bag3.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/parse.jpg',
+      img:'./img/product/parse.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/parse1.jpg',
+      img:'./img/product/parse1.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/parse2.jpg',
+      img:'./img/product/parse2.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/blet.jpg',
+      img:'./img/product/blet.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/teddy.jpg',
+      img:'./img/product/teddy.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/cap.jpg',
+      img:'./img/product/cap.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/bag.jpg',
+      img:'./img/product/bag.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/bag1.jpg',
+      img:'./img/product/bag1.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
     },
     {
       heading:"PRODUCT NAME",
-      img:'../img/product/parse2.jpg',
+      img:'./img/product/parse2.jpg',
       login:"Sign in",
       sentence:"or Create an account to see pricing",
 
