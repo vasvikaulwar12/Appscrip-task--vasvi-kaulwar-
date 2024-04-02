@@ -1,0 +1,17 @@
+.dropdown {
+    position: absolute;
+    top: 75%;
+    left: 80%;
+    background-color: white;
+    padding: 20px;
+    line-height: 2.5;
+    text-align: right;
+  }
+
+  @media screen and (max-width: 576px) {
+    .hide {
+        display: none;
+    }
+
+
+}

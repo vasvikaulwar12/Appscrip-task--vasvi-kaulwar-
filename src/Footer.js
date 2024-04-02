@@ -25,7 +25,7 @@
               <p className="footer-p">costomercare@mettamuse.com</p>
               <h5>CURRENCY</h5>
               <div style={{display:"flex"}}>
-                <img className='flag' src={"./img/america-flag.jpg"} alt='flag image'/>
+                <img className='flag' src={process.env.PUBLIC_URL +"/img/america-flag.jpg"} alt='flag image'/>
                 <div className='star'></div>
                 <h5>USD</h5>
               </div>
@@ -38,7 +38,7 @@
           <div className='col-md-3 d-flex justify-content-center'>
             <div>
             <h5 className='pt-4'>mettā muse</h5>
-            <ul className='footer-p' style={{textDecoration:"none",lineHeight:"30px",listStyle:"none",margin:"0px",padding:"0px"}}>
+            <ul className='footer-p'>
               <li>About Us</li>
               <li>Stories</li>
               <li>Aetisans</li>
@@ -51,7 +51,7 @@
           <div className='col-md-3 d-flex justify-content-center'>
           <div>
           <h5 className='pt-4'>QUICK LINK</h5>
-            <ul className='footer-p' style={{textDecoration:"none",lineHeight:"30px",listStyle:"none",margin:"0px",padding:"0px"}}>
+            <ul className='footer-p'>
               <li>Orders & Shipping</li>
               <li>Join/Login as a Seller</li>
               <li>Payment & Pricing</li>
@@ -62,8 +62,8 @@
             </ul>
           </div>
           </div>
-          <div className='col-md-6 '>
-            <div style={{marginLeft:"100px"}}>
+          <div className='col-md-6 follow-us-container'>
+            <div>
               <h5 className='pt-4'>FOLLOW US</h5>
               <div style={{display:'flex',margin:"30px 0px 50px 0px"}}>
                 <div className='social-Icon'>
@@ -75,11 +75,11 @@
               </div>
               <h5>mettā muse ACCEPTS</h5>
               <div>
-                <img className="logo-img" src={"./img/logo/g-pay.png"}/>
-                <img className="logo-img" src={"./img/logo/Mastercard.jpg"}/>
-                <img className="logo-img" src={"./img/logo/pay-pal.png"}/>
-                <img className="logo-img" src={"./img/logo/apple-pay.webp"}/>
-                <img className="logo-img" src={"./img/logo/shop-pay.webp"}/>
+                <img className="logo-img" src={process.env.PUBLIC_URL + "/img/logo/g-pay.png"} alt=" "/>
+                <img className="logo-img" src={process.env.PUBLIC_URL + "/img/logo/Mastercard.jpg"} alt=" "/>
+                <img className="logo-img" src={process.env.PUBLIC_URL + "/img/logo/pay-pal.png"} alt=" "/>
+                <img className="logo-img" src={process.env.PUBLIC_URL +"/img/logo/apple-pay.webp"} alt=" "/>
+                <img className="logo-img" src={process.env.PUBLIC_URL +"/img/logo/shop-pay.webp"} alt=" "/>
               </div>
             </div>
           </div>
