@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Appscrip-task--vasvi-kaulwar-/static/css/main.c0c9e1ab.css",
-    "main.js": "/Appscrip-task--vasvi-kaulwar-/static/js/main.3d2a40bb.js",
+    "main.css": "/Appscrip-task--vasvi-kaulwar-/static/css/main.53c933e0.css",
+    "main.js": "/Appscrip-task--vasvi-kaulwar-/static/js/main.dee3a3dc.js",
     "static/js/453.99d7d274.chunk.js": "/Appscrip-task--vasvi-kaulwar-/static/js/453.99d7d274.chunk.js",
     "index.html": "/Appscrip-task--vasvi-kaulwar-/index.html",
-    "main.c0c9e1ab.css.map": "/Appscrip-task--vasvi-kaulwar-/static/css/main.c0c9e1ab.css.map",
-    "main.3d2a40bb.js.map": "/Appscrip-task--vasvi-kaulwar-/static/js/main.3d2a40bb.js.map",
+    "main.53c933e0.css.map": "/Appscrip-task--vasvi-kaulwar-/static/css/main.53c933e0.css.map",
+    "main.dee3a3dc.js.map": "/Appscrip-task--vasvi-kaulwar-/static/js/main.dee3a3dc.js.map",
     "453.99d7d274.chunk.js.map": "/Appscrip-task--vasvi-kaulwar-/static/js/453.99d7d274.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0c9e1ab.css",
-    "static/js/main.3d2a40bb.js"
+    "static/css/main.53c933e0.css",
+    "static/js/main.dee3a3dc.js"
   ]
 }
